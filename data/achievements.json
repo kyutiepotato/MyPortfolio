@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "title": "Best Intern Award",
+        "description": "Recognized for excellence.",
+        "date_earned": "2025-02-28",
+        "icon": "fas fa-medal"
+    },
+    {
+        "id": "2",
+        "title": "Web Design",
+        "description": "1st place in during hackathon on INNOVARE.",
+        "date_earned": "2024-03-15",
+        "icon": "fas fa-trophy"
+    }
+]

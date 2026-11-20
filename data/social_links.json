@@ -1,0 +1,20 @@
+[
+    {
+        "id": "7",
+        "platform": "GitHub",
+        "url": "https://github.com/kyutiepotato",
+        "icon": "fab fa-github"
+    },
+    {
+        "id": "8",
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/in/randly-lawan-6205a0366/",
+        "icon": "fab fa-linkedin"
+    },
+    {
+        "id": "9",
+        "platform": "Facebook",
+        "url": "https://www.facebook.com/Randly.lawan12",
+        "icon": "fab fa-facebook"
+    }
+]

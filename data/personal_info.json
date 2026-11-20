@@ -1,0 +1,26 @@
+{
+    "id": "1",
+    "name": "Randly D. Lawan",
+    "title": "Full Stack Developer",
+    "bio": "Passionate developer who loves building clean, fast web applications.",
+    "email": "lawanrandly@gmail.com",
+    "phone": "+63 9511 409540",
+    "location": "Cadiz City,Negros Occidental, Philippines",
+    "avatar_url": "images/avatar.jpg",
+    "resume_url": "files/resume.pdf",
+    "skills": [
+        "PHP",
+        "MySQL",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Git",
+        "React",
+        "Electron",
+        "Node.js",
+        "CodeIgniter 3 & 4",
+        "Flutter"
+    ],
+    "created_at": "2026-11-19 10:27:32",
+    "updated_at": "2026-11-19 10:47:16"
+}

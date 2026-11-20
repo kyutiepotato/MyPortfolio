@@ -1,12 +1,32 @@
 [
     {
-        "id": "9",
-        "title": "Weather Dashboard",
-        "description": "Real-time weather app using a public API.",
-        "image_url": "images/weather.png",
+        "id": "1",
+        "title": "Project Monitoring",
+        "description": "Real-time project monitoring Use to track project progress and performance.",
+        "image_url": "project1.png",
+        "tech_stack": "PHP, MySQL, HTML, CSS, JavaScript",
+        "demo_url": "https://ceo-project-monitoring-system.page.gd/auth/login.php",
+        "github_url": "Censored",
+        "created_at": "2025-12-19"
+    },
+    {
+        "id": "2",
+        "title": "PhotoBooth App",
+        "description": "Use for photobooth event to help capture memories and share them.",
+        "image_url": "images/photobooth.png",
+        "tech_stack": "Electron JS, HTML, CSS, Node.js",
+        "demo_url": "https://example.com/photobooth",
+        "github_url": "https://github.com/example/photobooth",
+        "created_at": "2026-11-19 10:32:47"
+    },
+    {
+        "id": "3",
+        "title": "CSE App",
+        "description": "Learning and Practicing civil service exam questions and answers.",
+        "image_url": "images/cse.png",
         "tech_stack": "JavaScript, REST API",
-        "demo_url": "https://example.com/weather",
-        "github_url": "https://github.com/example/weather",
+        "demo_url": "https://example.com/cse",
+        "github_url": "https://github.com/example/cse",
         "created_at": "2026-11-19 10:32:47"
     }
 ]
